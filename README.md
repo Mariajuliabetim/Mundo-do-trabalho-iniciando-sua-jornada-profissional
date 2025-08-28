@@ -29,11 +29,6 @@ TECNOLOGIAS
     • Github
     • CSS
 
-
-CURSOS | CERTIFICAÇÕES 
-Formação Front-end - Alura (2023)
-JavaScript e TypeScript - Udemy (2022
-
-
+    
 IDIOMAS
 Inglês Avançado - Washington - 2022 - 2025
